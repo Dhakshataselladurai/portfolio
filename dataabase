@@ -1,0 +1,13 @@
+db.projects.insertOne({
+
+name:"CRM System",
+description:"Customer Relationship Management Website"
+
+})
+
+db.projects.insertOne({
+
+name:"AI Chatbot",
+description:"PDF Question Answering Chatbot"
+
+})
